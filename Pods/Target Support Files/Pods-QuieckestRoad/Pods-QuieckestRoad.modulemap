@@ -1,0 +1,6 @@
+framework module Pods_QuieckestRoad {
+  umbrella header "Pods-QuieckestRoad-umbrella.h"
+
+  export *
+  module * { export * }
+}
